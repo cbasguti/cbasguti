@@ -16,6 +16,14 @@
        alt="snake" /></a>
 </div>
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">A brief summary</h2></summary>
+  </ul>
+</div>
+
+As a motivated Junior Back-End Developer, I'm driven by a strong desire for self-improvement and a determination to achieve my goals. With excellent leadership skills and a knack for teamwork, I thrive in collaborative environments. My adaptable nature and strong interpersonal skills allow me to seamlessly adjust to any situation. I take particular interest in maintaining an organized agenda, which helps me excel at managing my time effectively.
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
