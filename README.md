@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Nodejs, MongoDB, Typescript, PHP**
 
-- 🌱 I’m currently learning **Clound Computing and Security Engineering**
+- 🌱 I’m currently learning **Cloud Computing and Security Engineering**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **GCP**
 
